@@ -1,0 +1,2 @@
+# Git.-class.
+Kazi moja
